@@ -1,0 +1,52 @@
+.contact-section {
+    padding: 20px 20px;
+    background-color: #111;
+    text-align: center;
+  }
+  
+  .contact-title {
+    font-size: 28px;
+    color: #ffffff;
+    margin-bottom: 30px;
+    font-weight: 600;
+  }
+  
+  .contact-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+  }
+  
+  .location {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    color: #cccccc;
+    font-size: 16px;
+  }
+  
+  .linkedin {
+    color: #ffffff;
+    font-size: 28px;
+    transition: 0.3s ease;
+  }
+  
+  .linkedin:hover {
+    color: #0a66c2; /* LinkedIn blue */
+  }
+  .contact-icons {
+    display: flex;
+    gap: 25px;
+    font-size: 40px;
+  }
+  
+  .icon-link {
+    color: white;
+    transition: 0.3s ease;
+  }
+  
+  .icon-link:hover {
+    color: #0a66c2;
+  }
+    
